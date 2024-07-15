@@ -262,8 +262,6 @@ footer::before {
     display: flex;
     gap: 3.4rem;
     padding-top: 4rem;
-
-    overflow-y: hidden;
   }
 
   main {
